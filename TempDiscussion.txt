@@ -1,0 +1,97 @@
+
+Overview tab changes
+ Sowmiya and Darshan
+
+CSP LKB and Docs tab Regression
+Hotfixes shared by Prasanna/Mohan
+Need to perform a round of Regression
+	LDEll-Top solutions, MAnuals and Documents, Regulatory Info, Videos (Thumbnails and updated dates),
+	LEMC-Top solutions, KnoweledgeBase articles, Manuals and Documents, Videos(Thumbnails and updated dates,
+	Manuals and Documents Redirection url change (LDELL)
+		Manuals page functionality verification
+		Verifying Canonical, prev and next from view Source (Ctrl+U)
+		Verifying for 'robots' from view source, ensure canonical is not present 
+
+The Hot fixes done for PROD are in this branch
+viz
+1. Summary field length of 184 char (Boundary condition)
+2. Show/Hide for special chars like HTML tags in summary and title
+3. Unauthorized user login test by login extranal user like using Gmail account
+
+
+Prod current url format - https://www.dell.com/support/manuals/us/en/04/latitude-14-5414-laptop/5414_om/notes-cautions-and-warnings?guid=guid-5b8de7b7-879f-45a4-88e0-732155904029&lang=en-us
+-----------------------------------------------------------------------------------
+Serial numbers
+alian.robinson@unisys.com/Password1
+CKM00180602994
+FC6RP144500112 
+CKM00144701097 
+BRCALJ1947K0A9 
+FC6RP144500042 
+FC6RP131400148 
+https://www.dell.com/support/home/en-us/product-support/serialnumber/CKM00144701097/overview
+Service Tags
+ASD2147, BT32VQ1, 32VRPF2, DL9B152, 6QM9T12, JBCCC31, 58FSPF2
+
+
+Edge/IE going blank - 6QM9T12, BT32VQ1, JBCCC31, 58FSPF2
+Working - ASD2147, 32VRPF2, DL9B152
+--------------------------------------------------------------------------------------
+LDELL
+https://www.dell.com/support/home/en-us/product-support/product/poweredge-r430/overview
+https://www.dell.com/support/home/en-us/product-support/product/poweredge-r730xd/overview
+https://www.dell.com/support/home/en-us/product-support/product/latitude-14-7480-laptop/overview
+https://www.dell.com/support/home/en-us/product-support/product/latitude-14-7480-laptop/overview
+https://www.dell.com/support/home/en-us/product-support/product/precision-t5500/overview 
+https://www.dell.com/support/home/en-us/product-support/product/precision-t7810-workstation/overview
+
+LEMC
+Serialized page
+https://www.dell.com/support/home/en-us/product-support/serialnumber/CKM00144701097/overview
+
+Model page
+https://www.dell.com/support/home/en-us/product-support/product/networker/docs (1 ts)
+https://www.dell.com/support/home/en-us/product-support/product/sourceone-in-place-migration/docs (1 ts)
+https://www.dell.com/support/home/en-us/product-support/product/avamar-server/docs (5 ts)
+
+Family page
+https://www.dell.com/support/home/en-us/product-support/product/networker-family/overview (1 ts)
+https://www.dell.com/support/home/en-us/product-support/product/avamar/overview (5 ts)
+https://www.dell.com/support/home/en-us/product-support/product/unity-family/overview (1 ts)
+https://www.dell.com/support/home/en-us/product-support/product/vnxe3200/overview (1 ts)
+https://www.dell.com/support/home/en-us/product-support/product/vnxe1600/docs (1 ts)
+
+Series page
+https://www.dell.com/support/home/en-us/product-support/product/centera-series/overview - no top solutions
+https://www.dell.com/support/home/en-us/product-support/product/networker/docs (1 ts)
+https://www.dell.com/support/home/en-us/product-support/product/sourceone-in-place-migration/docs (1 ts)
+https://www.dell.com/support/home/en-us/product-support/product/avamar-server/docs (5 ts)
+https://www.dell.com/support/home/en-us/product-support/product/vnx1-series/overview (3 ts)
+
+Other Observations
+https://www.dell.com/support/home/en-us/product-support/serialnumber/2421037EID228115659294/docs - Selcting model is landing on blank search landing page
+https://www.dell.com/support/home/en-us/product-support/product/avamar-data-store/overview - Docs tab not displayed 
+
+----------------------------------------------------------------------------------------
+downloads.dell.com
+LDELL
+https://www.dell.com/support/home/en-us/product-support/product/poweredge-r430/docs#regulatory-info
+
+https://www.dell.com/support/home/en-us/product-support/product/xps-27-7760-aio/docs#doc-types
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

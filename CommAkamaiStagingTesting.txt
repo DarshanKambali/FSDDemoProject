@@ -1,0 +1,57 @@
+Prod Image URLs:
+https://www.dell.com/community/s/html/@49381CFE6B52B497C827AC90E875DD3D/assets/category-laptops.png
+https://www.dell.com/community/s/html/@39819429EEBDF948E82E16FF70A5B55C/assets/category-desktops.png
+https://www.dell.com/community/s/html/@A970E8C72B8AD84966A59FFCCBA349D4/assets/category-servers.png
+https://www.dell.com/community/s/html/@C22D7C95FB7BD6E54D4BECB4DE30CA66/assets/category-storage.png
+https://www.dell.com/community/s/html/@B33B591EF730B70C5511C154BDDAD101/assets/networking.png
+https://www.dell.com/community/s/html/@BBF9971BDA07246F6AF2D6D777F85421/assets/category-electronics.png
+https://www.dell.com/community/s/html/assets/community-home-feature.jpg
+https://www.dell.com/community/s/html/assets/client-photo-9.jpg
+https://www.dell.com/community/s/html/assets/tech_expert_logo.png 
+https://www.dell.com/community/s/html/assets/feedback.gif
+Staging Image URLs
+https://vjauj58549.stage.lithium.com/community/Dell-Community/ct-p/English
+	GEThttps://c.evidon.com/sitenotice/1782/lithium/test/settings.js [HTTP/2 404 Not Found 484ms]
+https://vjauj58549.stage.lithium.com/community/s/html/@49381CFE6B52B497C827AC90E875DD3D/assets/category-laptops.png
+	GEThttps://vjauj58549.stage.lithium.com/favicon.ico [HTTP/2 404 Not Found 548ms]
+https://vjauj58549.stage.lithium.com/community/s/html/@39819429EEBDF948E82E16FF70A5B55C/assets/category-desktops.png
+	GEThttps://vjauj58549.stage.lithium.com/favicon.ico [HTTP/2 404 Not Found 0ms]
+https://vjauj58549.stage.lithium.com/community/s/html/@A970E8C72B8AD84966A59FFCCBA349D4/assets/category-servers.png
+	
+https://vjauj58549.stage.lithium.com/community/s/html/@C22D7C95FB7BD6E54D4BECB4DE30CA66/assets/category-storage.png
+https://vjauj58549.stage.lithium.com/community/s/html/@B33B591EF730B70C5511C154BDDAD101/assets/networking.png
+https://vjauj58549.stage.lithium.com/community/s/html/@BBF9971BDA07246F6AF2D6D777F85421/assets/category-electronics.png
+https://vjauj58549.stage.lithium.com/community/s/html/assets/community-home-feature.jpg
+https://vjauj58549.stage.lithium.com/community/s/html/assets/client-photo-9.jpg
+https://vjauj58549.stage.lithium.com/community/s/html/assets/tech_expert_logo.png 
+https://vjauj58549.stage.lithium.com/community/s/html/assets/feedback.gif
+
+https://vjauj58549.stage.lithium.com/community/s/skins/4504509/2f37b6ef280127b6d41d47ee3d5c40a5/dell.css
+
+Akamai Satging Ip
+23.34.4.232 www.dell.com
+
+Slow loading page URLs
+https://www.dell.com/community/windows-10/windows-10-product-key/td-p/4745126/page/2
+https://www.dell.com/community/laptops-general-read-only/dell-webcam-central-direct-download-link/td-p/3929709
+https://www.dell.com/community/laptops-general-read-only/bluetooth-headset-connects-but-no-sound-is-heard/td-p/4135987
+https://www.dell.com/community/inspiron/no-bootable-devices-found/td-p/5971157
+https://www.dell.com/community/desktops-general-read-only/monitor-goes-immediately-into-power-save-mode-upon-bootup/td-p/3980422
+https://www.dell.com/community/laptops-general-read-only/how-do-you-take-a-screen-shot-on-a-dell/td-p/4525473
+https://www.dell.com/community/storage-drives-media/how-to-set-installed-ssd-as-main-boot-device-in-windows-10/td-p/4658099
+https://www.dell.com/community/laptops-general-read-only/fn-key-disable-enable/td-p/3216657
+https://www.dell.com/community/inspiron/ethernet-wired-connection-keeps-disconnecting/td-p/6216566 
+https://www.dell.com/community/windows-10/bitlocker-need-a-key-but-i-never-installed-it/td-p/6019486
+https://www.dell.com/community/laptops-general-read-only/how-to-connect-2-monitors-to-single-inspiron-hdmi/td-p/5152665
+https://www.dell.com/community/inspiron/headphone-not-detected-when-plugged-in/td-p/7469697
+https://www.dell.com/community/inspiron/headphones-jack-not-working/td-p/7252757
+https://www.dell.com/community/monitors/s2417dg-no-signal-on-display-port-solved/td-p/5181319
+https://www.dell.com/community/windows-10/windows-10-can-t-import-photos-from-iphone/td-p/7480082
+https://www.dell.com/community/xps/intel-optane-memory-pinning-error/td-p/7341264
+https://www.dell.com/community/dell-community/ct-p/english?profile.language=en
+https://www.dell.com/community/dell-community/ct-p/english
+https://www.dell.com/community/notes/privatenotespage
+https://www.dell.com/community/laptops/ct-p/laptops
+
+
+https://vjauj58549.stage.lithium.com/community/windows-10/windows-10-product-key/td-p/4745126/page/2
